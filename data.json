@@ -1,0 +1,32 @@
+{
+    "customers":[
+        {
+            "id":1, 
+            "name":"john doe", 
+            "email":"jdoe@gmail.com", 
+            "age":5},
+        {
+            "id":2, 
+            "name":"steve smith", 
+            "email":"ssmith@gmail.com", 
+            "age":35},
+        {
+            "id":3, 
+            "name":"neil cones", 
+            "email":"conesinmecaar@gmail.com", 
+            "age":26
+        },
+        {
+            "id":4, 
+            "name":"Keith Wilson", 
+            "email":"keith@gmail.com", 
+            "age":26
+        },
+        {
+            "id":5, 
+            "name":"Tom Jones", 
+            "email":"tom@gmail.com", 
+            "age":26
+        }
+    ]
+}
